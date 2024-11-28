@@ -54,8 +54,19 @@ plt.show()
 ```
 
 ## Output:
+![Screenshot 2024-11-28 201426](https://github.com/user-attachments/assets/657a253a-8fd3-4993-8fb3-7c63739c0e86)
+![Screenshot 2024-11-28 201514](https://github.com/user-attachments/assets/f1350406-b3dd-401e-a2c8-56e846f52a2e)
+![Screenshot 2024-11-28 201543](https://github.com/user-attachments/assets/314acf02-2691-4161-bf52-a211c3b24dc0)
+```
+0    11428
+1     3571
+Name: left, dtype: int64
+```
+![Screenshot 2024-11-28 201718](https://github.com/user-attachments/assets/d03adb5f-519a-4051-b471-1f4354dfa06c)
+![Screenshot 2024-11-28 201801](https://github.com/user-attachments/assets/987387f1-6c29-4b7c-807c-255838591714)
 
 0.9846666666666667
+![Screenshot 2024-11-28 201834](https://github.com/user-attachments/assets/75bc9118-c203-4c43-a3b6-9604314147e0)
 
 ![Screenshot 2024-11-28 142058](https://github.com/user-attachments/assets/686825b1-2b4a-4c87-963a-24f0887ca467)
 
